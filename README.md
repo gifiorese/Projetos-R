@@ -6,4 +6,4 @@
 </div>
 
 ## Projetos
-1) [Estatística com R](https://github.com/gifiorese/Projetos-R)
+1) [Estatística com R](https://github.com/gifiorese/Projetos-R/tree/main/Estat%C3%ADstica%20com%20R%20-%20Frequ%C3%AAncias%20e%20Medidas/M%C3%B3dulo%201)
